@@ -29,11 +29,11 @@ const chatData = {
         user: "What have you built?",
         bot: [
             "My portfolio of software projects is diverse. I've developed everything from custom scripts to full web applications.",
-            "One project that stands out right now is <span class=\"highlight\">Brevity</span>. You can click the card below to test the inference engine directly.",
-            `<a href="https://mohammed-owzzz.github.io/brevity/" target="_blank" style="text-decoration: none; display: block; border-bottom: none;">
+            "One project that stands out right now is <span class=\"highlight\">Lexicon</span>. You can click the card below to test the expansion engine directly.",
+            `<a href="https://mohammed-owzzz.github.io/lexicon/" target="_blank" style="text-decoration: none; display: block; border-bottom: none;">
                 <div class="project-card" style="cursor: pointer; transition: background-color 0.2s;">
-                    <div class="project-title" style="color: var(--text);">Brevity ↗</div>
-                    <div class="project-desc">An ultra-low latency document extraction engine built with <span class=\"highlight\">Python, FastAPI, and Groq (Llama 3.1)</span>. It instantly distills complex PDFs into precise, actionable intelligence.</div>
+                    <div class="project-title" style="color: var(--text);">Lexicon ↗</div>
+                    <div class="project-desc">A lightweight context expansion engine built with <span class=\"highlight\">Python, FastAPI, and the Groq API</span>. It intercepts basic user prompts and leverages few-shot prompting to systematically generate highly detailed, professional-grade instructions for large language models.</div>
                 </div>
             </a>`
         ],
