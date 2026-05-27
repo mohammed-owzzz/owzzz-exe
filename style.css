@@ -8,11 +8,17 @@
   --border: #27272a;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
 
 body {
@@ -22,7 +28,7 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  padding: 4rem 1rem 8rem 1rem;
+  padding: 4rem 1rem 2rem 1rem;
   position: relative;
   z-index: 1;
   font-weight: 300;
@@ -137,9 +143,8 @@ a:hover {
   flex-wrap: wrap;
   gap: 0.8rem;
   justify-content: flex-end;
-  position: fixed;
-  bottom: 2rem;
   padding: 0 1rem;
+  margin-top: 1rem;
 }
 
 .action-btn {
