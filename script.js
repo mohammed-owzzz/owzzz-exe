@@ -29,11 +29,11 @@ const chatData = {
         user: "What have you built?",
         bot: [
             "My portfolio of software projects is diverse. I've developed everything from custom scripts to full web applications.",
-            "One project that stands out right now is <span class=\"highlight\">Lexicon</span>. You can click the card below to test the expansion engine directly.",
-            `<a href="https://mohammed-owzzz.github.io/lexicon/" target="_blank" style="text-decoration: none; display: block; border-bottom: none;">
+            "One project that stands out right now is <span class=\"highlight\">Cryptora</span>. You can click the card below to test the secure e-voting platform directly.",
+            `<a href="https://mohammed-owzzz.github.io/cryptora/" target="_blank" style="text-decoration: none; display: block; border-bottom: none;">
                 <div class="project-card" style="cursor: pointer; transition: background-color 0.2s;">
-                    <div class="project-title" style="color: var(--text);">Lexicon ↗</div>
-                    <div class="project-desc">A lightweight context expansion engine built with <span class=\"highlight\">Python, FastAPI, and the Groq API</span>. It intercepts basic user prompts and leverages few-shot prompting to systematically generate highly detailed, professional-grade instructions for large language models.</div>
+                    <div class="project-title" style="color: var(--text);">Cryptora 🐙</div>
+                    <div class="project-desc">A secure, privacy-preserving e-voting platform built on a consortium blockchain and zero-knowledge proofs. Built with <span class="highlight">React, TypeScript, Vite, Tailwind, Express, and the Groq API</span>.</div>
                 </div>
             </a>`
         ],
