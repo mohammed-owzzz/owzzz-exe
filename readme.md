@@ -26,6 +26,19 @@ instead of providing recruiters with a traditional static webpage, i designed th
 
 ---
 
+## screenshots
+
+place screenshots of the running app in `screenshots/` and reference them here:
+
+| home / idle state | result state |
+| --- | --- |
+| `![idle state](screenshots/idle-state.png)` | `![result state](screenshots/result-state.png)` |
+| `![loading state](screenshots/loading-state.png)` | `![error state](screenshots/error-state.png)` |
+
+to capture: open `index.html` in your browser, click through the prompts, and take screenshots of each view.
+
+---
+
 ## live demo
 
 view the live portfolio: https://mohammed-owzzz.github.io/owzzz-exe/
