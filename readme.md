@@ -30,8 +30,8 @@ instead of providing recruiters with a traditional static webpage, i designed th
 
 | screenshot 1 | screenshot 2 |
 | --- | --- |
-| `![screenshot 1](screenshots/owzzz-exe-screenshot-1.png)` | `![screenshot 2](screenshots/owzzz-exe-screenshot-2.png)` |
-| `![screenshot 3](screenshots/owzzz-exe-screenshot-3.png)` | `![screenshot 4](screenshots/owzzz-exe-screenshot-4.png)` |
+| ![screenshot 1](screenshots/owzzz-exe-screenshot-1.png) | ![screenshot 2](screenshots/owzzz-exe-screenshot-2.png) |
+| ![screenshot 3](screenshots/owzzz-exe-screenshot-3.png) | ![screenshot 4](screenshots/owzzz-exe-screenshot-4.png) |
 
 to capture: open `index.html` in your browser, click through the prompts, and take screenshots of each view.
 
